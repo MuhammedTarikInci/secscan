@@ -1,3 +1,5 @@
+# Made by MuhammedTarikInci
+
 import requests
 from bs4 import BeautifulSoup
 import socket
